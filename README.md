@@ -16,3 +16,7 @@ GET: http://localhost:8080/api/contacts?phrase=aus
 GET: http://localhost:8080/api/contacts/id
 DELETE: http://localhost:8080/api/contacts/id
 ```
+En caso de tener detalles con las librerias de node, favor de eliminar la carpeta de node_modules y posterior ejecutar el siguiente comando:
+```
+npm install
+```
